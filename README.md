@@ -13,7 +13,7 @@ Ce projet permet de gérer les hôtels, les chambres, les clients, les employés
 
 ## Diagramme UML
 Voici le diagramme UML du projet :
-[Diagramme UML] (images/UML.png)
+[Diagramme UML](images/UML.png)
 
 ## 🗃 Structure Complète de la Base de Données
 
