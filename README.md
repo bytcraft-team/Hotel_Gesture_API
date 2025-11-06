@@ -82,12 +82,13 @@ Voici le diagramme UML du projet :
 - Mysql workbench
 - Gradle
 - Postman (optionnel, pour tester les API)
+- Dokka (optionnel, pour générer la documentation HTML à partir des commentaires KDoc)
 
 ## 🚀 Étapes d'installation
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/bytcraft-team/Hotel_Gesture.git
+git clone https://github.com/bytcraft-team/Hotel_Gesture_API.git
 ```
 
 2. Créez la base de données
@@ -122,7 +123,7 @@ logging.level.APiRes=DEBUG
 ```
 4. Lancez l'application
    ```bash 
-   ./mvnw spring-boot:run
+   gradlew.bat bootRun
 
 ## Endpoints Disponibles
 
@@ -175,4 +176,4 @@ logging.level.APiRes=DEBUG
 ** [ Aziza Laafar / Hocein Essaif ] ** - Projet Back-End Kotlin/Spring Boot
 
 ## Date
-[2025-11-04]
+[2025-11-06]
